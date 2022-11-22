@@ -90,7 +90,7 @@ export default class Auth {
     this.auth0.logout({
       return_to: window.location.origin
     });
-
+    
     // navigate to the home route
     this.history.replace('/');
   }

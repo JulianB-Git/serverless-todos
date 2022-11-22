@@ -1,10 +1,12 @@
 {
-  "name": "typescript-app",
+  "name": "todo-app",
   "version": "0.1.0",
+  "homepage": "https://julianb-git.github.io/todo-app",
   "private": true,
   "dependencies": {
     "axios": "^0.21.1",
     "dateformat": "^3.0.3",
+    "gh-pages": "^4.0.0",
     "immutability-helper": "^3.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -27,6 +29,8 @@
     "typescript": ">=3.8.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
