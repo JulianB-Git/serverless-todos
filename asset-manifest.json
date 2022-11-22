@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/serverless-todo/static/css/main.e68942c9.chunk.css",
-    "main.js": "/serverless-todo/static/js/main.88ff1d2d.chunk.js",
-    "main.js.map": "/serverless-todo/static/js/main.88ff1d2d.chunk.js.map",
+    "main.js": "/serverless-todo/static/js/main.c7d104db.chunk.js",
+    "main.js.map": "/serverless-todo/static/js/main.c7d104db.chunk.js.map",
     "runtime-main.js": "/serverless-todo/static/js/runtime-main.5b09c164.js",
     "runtime-main.js.map": "/serverless-todo/static/js/runtime-main.5b09c164.js.map",
     "static/css/2.da64d13b.chunk.css": "/serverless-todo/static/css/2.da64d13b.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.da64d13b.chunk.css",
     "static/js/2.bfba6cdd.chunk.js",
     "static/css/main.e68942c9.chunk.css",
-    "static/js/main.88ff1d2d.chunk.js"
+    "static/js/main.c7d104db.chunk.js"
   ]
 }
