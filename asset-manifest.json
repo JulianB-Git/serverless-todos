@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/todo-app/static/css/main.e68942c9.chunk.css",
-    "main.js": "/todo-app/static/js/main.d8dacb97.chunk.js",
-    "main.js.map": "/todo-app/static/js/main.d8dacb97.chunk.js.map",
-    "runtime-main.js": "/todo-app/static/js/runtime-main.ddb9434d.js",
-    "runtime-main.js.map": "/todo-app/static/js/runtime-main.ddb9434d.js.map",
-    "static/css/2.68897112.chunk.css": "/todo-app/static/css/2.68897112.chunk.css",
-    "static/js/2.bfba6cdd.chunk.js": "/todo-app/static/js/2.bfba6cdd.chunk.js",
-    "static/js/2.bfba6cdd.chunk.js.map": "/todo-app/static/js/2.bfba6cdd.chunk.js.map",
-    "index.html": "/todo-app/index.html",
-    "static/css/2.68897112.chunk.css.map": "/todo-app/static/css/2.68897112.chunk.css.map",
-    "static/css/main.e68942c9.chunk.css.map": "/todo-app/static/css/main.e68942c9.chunk.css.map",
-    "static/js/2.bfba6cdd.chunk.js.LICENSE.txt": "/todo-app/static/js/2.bfba6cdd.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/todo-app/static/media/outline-icons.ddae9b1b.woff"
+    "main.css": "/serverless-todo/static/css/main.e68942c9.chunk.css",
+    "main.js": "/serverless-todo/static/js/main.88ff1d2d.chunk.js",
+    "main.js.map": "/serverless-todo/static/js/main.88ff1d2d.chunk.js.map",
+    "runtime-main.js": "/serverless-todo/static/js/runtime-main.5b09c164.js",
+    "runtime-main.js.map": "/serverless-todo/static/js/runtime-main.5b09c164.js.map",
+    "static/css/2.da64d13b.chunk.css": "/serverless-todo/static/css/2.da64d13b.chunk.css",
+    "static/js/2.bfba6cdd.chunk.js": "/serverless-todo/static/js/2.bfba6cdd.chunk.js",
+    "static/js/2.bfba6cdd.chunk.js.map": "/serverless-todo/static/js/2.bfba6cdd.chunk.js.map",
+    "index.html": "/serverless-todo/index.html",
+    "static/css/2.da64d13b.chunk.css.map": "/serverless-todo/static/css/2.da64d13b.chunk.css.map",
+    "static/css/main.e68942c9.chunk.css.map": "/serverless-todo/static/css/main.e68942c9.chunk.css.map",
+    "static/js/2.bfba6cdd.chunk.js.LICENSE.txt": "/serverless-todo/static/js/2.bfba6cdd.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/serverless-todo/static/media/outline-icons.ddae9b1b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.ddb9434d.js",
-    "static/css/2.68897112.chunk.css",
+    "static/js/runtime-main.5b09c164.js",
+    "static/css/2.da64d13b.chunk.css",
     "static/js/2.bfba6cdd.chunk.js",
     "static/css/main.e68942c9.chunk.css",
-    "static/js/main.d8dacb97.chunk.js"
+    "static/js/main.88ff1d2d.chunk.js"
   ]
 }
