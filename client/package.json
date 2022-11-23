@@ -1,6 +1,6 @@
 {
   "name": "serverless-todo",
-  "homepage": "https://julianb-git.github.io/serverless-todo",
+  "homepage": "https://serverless-todo.onrender.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
